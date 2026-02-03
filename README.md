@@ -3,36 +3,47 @@ Jose Ismael de la Cruz Garcia
 
 <img width="768" height="576" alt="image" src="https://github.com/user-attachments/assets/a3313e93-263b-4376-915e-cd08893d317f" />
 
-## entorno de edicion
-El equipo de desarrollo ha estandarizado su flujo de trabajo mediante el uso de editores potenciados por Inteligencia Artificial para maximizar la velocidad de entrega.
-* Herramienta principal: Cursor (basado en VS Code) o VS Code.
-* Extensiones recomendadas:
-  * Prettier & ESLint: Para garantizar la consistencia del estilo y la calidad del código de forma automática.
- *	GitHub Copilot: Para la asistencia en la escritura de código y generación de funciones complejas.
- *	Tailwind CSS IntelliSense: Para el autocompletado inteligente de clases de diseño.
+  # Apple 
+  ## Entorno de Edición: Xcode 17 y Apple Intelligence
+El centro neurálgico para cualquier desarrollador es Xcode 17. En 2026, la gran novedad es la integración de la IA no solo como un asistente, sino como parte del motor de compilación:
 
-## Ecosistema de Navegación
-Las pruebas no se limitan a la visualización, sino que se centran en el rendimiento crítico y la experiencia de usuario (Core Web Vitals).
-*	Navegador de Desarrollo: Google Chrome (Canary), utilizando intensivamente las DevTools para auditorías de Lighthouse y monitoreo de red.
-*	Pruebas de Renderizado: Se realizan pruebas cruzadas en Safari (Webkit) para asegurar la compatibilidad en dispositivos iOS y en Firefox para validar estándares web abiertos.
+* Swift Assist: Un compañero de codificación integrado (estilo Copilot, pero local y privado) que conoce todas las APIs de Apple y puede generar arquitecturas completas a partir de lenguaje natural.
 
-## Gestión de Versiones
-La colaboración técnica sigue un flujo estricto de integración continua para evitar conflictos en el código compartido.
-* sistema: Git
-* plataforma de alojamiento: GitHub
-* flujo de trabajo: utiliza GitHub actions para automatizar el despliegue (CI/CD) y revisiones de codigo mediante Pull Requests vinculadas a sus tickets de tareas.
+* Predictive Debugging: Xcode ahora puede predecir dónde ocurrirá un "crash" basándose en patrones de flujo de datos antes de que el código se ejecute.
 
-## diseño  
-Antes de escribir una sola línea de código en el frontend, el equipo de producto define la experiencia visual para reducir cambios costosos en desarrollo.
-* Herramienta de Prototipado: Figma.
-* Uso: Se utiliza no solo para el diseño visual, sino también para el Handover técnico, donde los desarrolladores extraen variables de color, espaciados y activos (SVG/Imágenes) directamente desde la plataforma.
+* Simuladores de Vision Pro 2: Incluyen soporte para entornos de "Passthrough" (realidad aumentada) más realistas, permitiendo probar la oclusión de objetos físicos en tiempo real.
+
+  ## Ecosistema de Navegación: "Liquid Glass"
+Apple ha introducido un nuevo lenguaje visual llamado Liquid Glass (Cristal Líquido) que redefine la navegación en iOS 26 y macOS 26:
+
+* Interfaces Adaptativas: Los menús de navegación ya no son estáticos; se transforman y refractan la luz según el contenido que tengan detrás, dando una sensación de profundidad física.
+
+* Continuidad de Pantallas: Gracias a Continuity, un usuario puede arrastrar una ventana de navegación desde su iPhone y "soltarla" en un espacio infinito dentro de sus Vision Pro de forma instantánea.
+
+  ## Gestión de Versiones y Despliegue
+Apple ha profesionalizado sus herramientas de DevOps para competir con entornos empresariales abiertos:
+
+* Xcode Cloud: Se ha convertido en el estándar de la industria para el ecosistema Apple, ofreciendo integración continua (CI/CD) nativa que firma, prueba y distribuye betas a TestFlight de forma automática.
+
+* Git Integration: Aunque compatible con GitHub y GitLab, Xcode 17 incluye una visualización de ramas (branches) mucho más visual, permitiendo resolver conflictos de fusión (merge) mediante una interfaz de "arrastrar y soltar" elementos de código.
+
+## Diseño: Human Interface Guidelines (HIG) 2026
+El diseño en Apple ahora se rige por la Personalización Predictiva:
+
+* Diseño Generativo: Las HIG ahora sugieren que las apps deben adaptar su UI (User Interface) al contexto del usuario (luz, hora, actividad física).
+
+* Icon Composer: Una nueva herramienta que permite a los diseñadores crear iconos que cambian dinámicamente según el modo del sistema (oscuro, claro o "Liquid" tintado).
 
 ## Lenguajes y Herramientas Base
-El núcleo técnico de la empresa se basa en tecnologías modernas que permiten escalabilidad y tipado fuerte para evitar errores en producción.
-* Lenguajes Base: HTML5, CSS3 y TypeScript (adoptado como el estándar sobre JavaScript puro por su seguridad en el manejo de datos).
-*	Herramienta "Moderna" Detectada: Next.js (Framework de React) junto con Tailwind CSS para el diseño. Además, se detecta el uso de Bun como ejecutor de JavaScript (Runtime) para acelerar los tiempos de instalación de paquetes y ejecución de scripts en comparación con Node.js tradicional.
+El stack tecnológico de Apple en 2026 es más seguro y rápido que nunca:
 
-  # Apple 
+* Swift 6.2: Es el lenguaje dominante. En esta versión, la concurrencia estricta ya no es opcional, lo que elimina casi por completo los errores de acceso a memoria y "data races".
+
+* SwiftUI 7: Ha reemplazado casi totalmente a UIKit. Incluye el nuevo framework de animaciones FluidMotion, que permite transiciones de 120Hz extremadamente complejas con apenas tres líneas de código.
+
+* Foundation Models API: Una nueva herramienta base que permite a los desarrolladores conectar sus apps directamente a los modelos de lenguaje de Apple (Siri) sin necesidad de servidores externos, garantizando la privacidad.
+
+  
 
 **El "Truco" de las Ofertas de Empleo Required Skills And Qualifications**
 
